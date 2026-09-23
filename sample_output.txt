@@ -1,0 +1,5 @@
+Sep 21 03:49:46 sysadmin-host kernel: [    0.000000] NUMA: Failed to initialise from firmware
+Sep 21 03:49:46 sysadmin-host kernel: [    0.247949] GPT: Use GNU Parted to correct GPT errors.
+Sep 21 03:49:46 sysadmin-host kernel: [    3.040368] EXT4-fs (sda1): re-mounted. Opts: discard,errors=remount-ro. Quota mode: none.
+Sep 21 03:49:46 sysadmin-host cloud-init[591]: 2026-09-21 03:49:45,173 - schema.py[WARNING]: cloud-config failed schema validation! You may run 'sudo cloud-init schema --system' to check the details.
+Sep 21 03:49:46 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
